@@ -34,3 +34,14 @@ Today, I explored subarray-related problems and sum optimization techniques:
 
 ### Files Added:
 - `subarray/` folder with 6 Java source files.
+
+## Day 4: Sorting Algorithms
+Today, I implemented various sorting algorithms to understand their time and space complexities:
+- **Bubble Sort**: Simple comparison-based sorting ($O(n^2)$).
+- **Selection Sort**: Finding the minimum element and swapping it to the front ($O(n^2)$).
+- **Insertion Sort**: Building the sorted array one element at a time ($O(n^2)$).
+- **Counting Sort**: Non-comparison based sorting for specific ranges ($O(n+k)$).
+- **Inbuilt Sort**: Using Java's `Arrays.sort()` method.
+
+### Files Added:
+- `sorting/` folder with 5 Java source files.
