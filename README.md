@@ -14,3 +14,11 @@ Today, I implemented several fundamental array operations and algorithms:
 
 ### Files Added:
 - `arrays/` folder with 18 Java source files.
+
+## Day 2: Advanced Array Problems (Extra)
+Today, I worked on some classic advanced array challenges:
+- **Best Time to Buy and Sell Stock**: Optimized approach to find max profit.
+- **Trapping Rainwater**: Two-pointer approach for water calculation.
+
+### Files Added:
+- `array_extra/` folder with 2 Java source files.
