@@ -22,3 +22,15 @@ Today, I worked on some classic advanced array challenges:
 
 ### Files Added:
 - `array_extra/` folder with 2 Java source files.
+
+## Day 3: Subarrays
+Today, I explored subarray-related problems and sum optimization techniques:
+- **Subarray Basics**: Printing all subarrays of an array.
+- **Max Subarray Sum (Brute Force)**: Basic $O(n^3)$ approach.
+- **Max Subarray Sum (Prefix Sum)**: Optimized $O(n^2)$ approach.
+- **Max Subarray Sum (Kadane's Algorithm)**: Most optimized $O(n)$ approach.
+- **Max Sum Subarray of Size K**: Sliding window technique.
+- **Subarray with Given Sum**: Finding a continuous subarray that adds up to a target.
+
+### Files Added:
+- `subarray/` folder with 6 Java source files.
