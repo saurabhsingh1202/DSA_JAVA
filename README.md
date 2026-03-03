@@ -45,3 +45,15 @@ Today, I implemented various sorting algorithms to understand their time and spa
 
 ### Files Added:
 - `sorting/` folder with 5 Java source files.
+
+## Day 5: 2D Arrays
+Today, I moved into Multi-Dimensional Arrays, implementing core matrix algorithms and operations:
+- **Matrix Basics**: Input, Output, and Search operations in 2D arrays.
+- **Max and Min**: Finding the extreme values within a matrix.
+- **Spiral Matrix**: Traversing a matrix in a spiral order.
+- **Diagonal Sum**: Calculating the sum of primary and secondary diagonals ($O(n)$ optimized).
+- **Matrix Transpose**: Converting rows into columns and vice versa.
+
+### Files Added:
+- `2d_Array/` folder with 5 Java source files.
+
