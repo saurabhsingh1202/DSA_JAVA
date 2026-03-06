@@ -57,3 +57,23 @@ Today, I moved into Multi-Dimensional Arrays, implementing core matrix algorithm
 ### Files Added:
 - `2d_Array/` folder with 5 Java source files.
 
+## Day 6: Strings
+Today, I dived into String manipulation in Java, covering fundamental operations and common algorithms:
+- **String Basics**: Implemented operations like `charAt()`, string comparison, and concatenation.
+- **Palindrome Check**: Created a function to determine if a string reads the same forwards and backwards.
+- **Shortest Path**: Calculated the displacement path based on cardinal directions (N, S, E, W).
+- **Largest String**: Determined the lexicographically largest string among a set.
+- **Substring**: Implemented logic to extract parts of a string.
+
+### Files Added:
+- `Strings/` folder with 9 Java source files.
+
+## Day 7: StringBuilder
+Today, I explored the `StringBuilder` class for efficient string manipulation:
+- **Efficiency**: Utilized `StringBuilder` for frequent string modifications to avoid immutable string overhead.
+- **Case Conversion**: Implemented logic to convert strings to uppercase efficiently.
+- **String Compression**: Created a basic algorithm to compress strings using repeated character counts.
+
+### Files Added:
+- `StringsBuilder/` folder with 3 Java source files.
+
